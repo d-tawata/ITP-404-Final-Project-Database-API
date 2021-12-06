@@ -4,13 +4,15 @@
       "id": "0",
       "title": "Flashcard 0",
       "body": "Definition 0",
-      "favorite": true
+      "favorite": true,
+      "favoriteTimestamp": ""
     },
     {
       "id": "1",
       "title": "Flashcard 1",
       "body": "Definition 1",
-      "favorite": false
+      "favorite": false,
+      "favoriteTimestamp": ""
     }
   ],
   "comments": [
