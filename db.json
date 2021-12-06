@@ -16,19 +16,27 @@
   "comments": [
     {
       "id": "0",
-      "body": "Comment 0"
+      "body": "Comment 0",
+      "author": "",
+      "timestamp": ""
     },
     {
       "id": "1",
-      "body": "Comment 1"
+      "body": "Comment 1",
+      "author": "",
+      "timestamp": ""
     },
     {
       "id": "2",
-      "body": "Comment 2"
+      "body": "Comment 2",
+      "author": "",
+      "timestamp": ""
     },
     {
       "id": "3",
-      "body": "Comment 3"
+      "body": "Comment 3",
+      "author": "",
+      "timestamp": ""
     }
   ]
 }
