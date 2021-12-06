@@ -54,7 +54,7 @@ app.post('/api/posts', (request, response) => {
 
 function createClient() {
     const client = new Client({
-        connectionString: process.env.DATABASE_URL,
+        connectionString: process.env.example.DATABASE_URL,
         ssl: {
             rejectUnauthorized: false,
         }
