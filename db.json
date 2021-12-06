@@ -4,57 +4,31 @@
       "id": "0",
       "title": "Flashcard 0",
       "body": "Definition 0",
-      "categoryId": "1",
-      "authorId": "0"
+      "favorite": true
     },
     {
       "id": "1",
       "title": "Flashcard 1",
       "body": "Definition 1",
-      "categoryId": "0",
-      "authorId": "0"
-    }
-  ],
-  "categories": [
-    {
-      "id": "0",
-      "name": "Tech"
-    },
-    {
-      "id": "1",
-      "name": "Financial Independence"
-    },
-    {
-      "id": "2",
-      "name": "Retirement"
+      "favorite": false
     }
   ],
   "comments": [
     {
       "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
+      "body": "Comment 0"
     },
     {
       "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
+      "body": "Comment 1"
     },
     {
       "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
+      "body": "Comment 2"
     },
     {
       "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
-    }
-  ],
-  "authors": [
-    {
-      "id": "0",
-      "name": "Diana Salcedo-Pierce"
+      "body": "Comment 3"
     }
   ]
 }
