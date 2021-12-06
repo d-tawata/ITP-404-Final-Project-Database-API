@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "flashcards": [
     {
       "id": "0",
-      "title": "Post 0",
-      "body": "Body 0",
+      "title": "Flashcard 0",
+      "body": "Definition 0",
       "categoryId": "1",
       "authorId": "0"
     },
     {
       "id": "1",
-      "title": "POST 1",
-      "body": "BODY 1",
+      "title": "Flashcard 1",
+      "body": "Definition 1",
       "categoryId": "0",
       "authorId": "0"
     }
@@ -54,7 +54,7 @@
   "authors": [
     {
       "id": "0",
-      "name": "David Tang"
+      "name": "Diana Salcedo-Pierce"
     }
   ]
 }
