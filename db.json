@@ -2,15 +2,15 @@
   "flashcards": [
     {
       "id": "0",
-      "title": "Flashcard 0",
-      "body": "Definition 0",
+      "title": "Flashcard 1",
+      "body": "Definition 1",
       "favorite": true,
       "favoriteTimestamp": "2021-12-6 22:56:14"
     },
     {
       "id": "1",
-      "title": "Flashcard 1",
-      "body": "Definition 1",
+      "title": "Flashcard 2",
+      "body": "Definition 2",
       "favorite": false,
       "favoriteTimestamp": ""
     }
